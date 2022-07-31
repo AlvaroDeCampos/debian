@@ -22,6 +22,8 @@ sudo apt install build-essential \
                  youtube-dl \
                  vlc \
                  mc \
+                 xfce4-panel \
+                 xfce4-terminal \
                  zsh
 
 

@@ -1,5 +1,4 @@
 sudo apt install build-essential \
-                 apt-listchanges \
                  curl \
                  lynx \
                  i3 \
@@ -7,7 +6,7 @@ sudo apt install build-essential \
                  lightdm \
                  lxappearance \
                  feh \
-                 pcmanfm \
+                 thunar \
                  qutebrowser \
                  pulseaudio \
                  alsa-utils \

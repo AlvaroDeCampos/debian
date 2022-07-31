@@ -21,7 +21,8 @@ sudo apt install build-essential \
                  arc-theme \
                  youtube-dl \
                  vlc \
-                 geany
+                 mc \
+                 zsh
 
 
 

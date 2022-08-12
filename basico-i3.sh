@@ -1,7 +1,4 @@
-sudo apt install build-essential \
-                 curl \
-                 lynx \
-                 i3 \
+sudo apt install i3 \
                  xorg \
                  lightdm \
                  lxappearance \
@@ -18,11 +15,9 @@ sudo apt install build-essential \
                  blueman \
                  htop \
                  papirus-icon-theme \
-                 arc-theme \
+                 materia-gtk-theme \
                  youtube-dl \
-                 vlc \
                  mc \
-                 xfce4-panel \
                  xfce4-terminal \
                  zsh
 

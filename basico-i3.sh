@@ -19,7 +19,8 @@ sudo apt install i3 \
                  youtube-dl \
                  mc \
                  xfce4-terminal \
-                 zsh
+                 zsh \
+                 zram-tools
 
 
 

@@ -1,8 +1,13 @@
-sudo apt install i3 \
-                 xorg \
+sudo apt install build-essentials \
+				         curl \
+				         lynx \
+                 amd64-microcode \
+                 firmware-atheros \
+                 firmware-iwlwifi \ 
+                 i3 \
+                 xorf \
                  lightdm \
                  lxappearance \
-                 feh \
                  thunar \
                  qutebrowser \
                  pulseaudio \
@@ -16,11 +21,11 @@ sudo apt install i3 \
                  htop \
                  papirus-icon-theme \
                  materia-gtk-theme \
-                 youtube-dl \
                  mc \
                  xfce4-terminal \
                  zsh \
                  zram-tools
+                 
 
 
 

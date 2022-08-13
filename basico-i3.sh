@@ -1,6 +1,6 @@
 sudo apt install build-essentials \
-				         curl \
-				         lynx \
+                 curl \
+	 	 lynx \
                  amd64-microcode \
                  firmware-atheros \
                  firmware-iwlwifi \ 

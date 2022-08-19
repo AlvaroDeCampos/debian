@@ -1,11 +1,8 @@
 sudo apt install build-essentials \
                  curl \
 	 	 lynx \
-                 amd64-microcode \
-                 firmware-atheros \
-                 firmware-iwlwifi \ 
                  i3 \
-                 xorf \
+                 xorg \
                  lightdm \
                  lxappearance \
                  thunar \

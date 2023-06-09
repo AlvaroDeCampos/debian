@@ -1,6 +1,6 @@
 sudo apt install qbittorrent \
                  handbrake \
-                 obs \
+                 obs-studio \
                  evince \
                  torbrowser-launcher \
                  calibre \

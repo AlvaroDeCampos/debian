@@ -3,7 +3,9 @@ sudo apt install qbittorrent \
                  obs \
                  evince \
                  torbrowser-launcher \
-                 calibre 
+                 calibre \
+                 ufw \
+                 vlc
                  
         
 

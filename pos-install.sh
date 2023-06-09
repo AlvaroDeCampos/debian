@@ -1,15 +1,9 @@
-sudo apt install youtube-dl \
-                 ranger \
-                 polybar \
-                 rxvt-unicode \
-                 xsel \
-                 qbittorrent \
-                 redshift \
-                 breeze-cursor-theme \
+sudo apt install qbittorrent \
+                 handbrake \
+                 obs \
                  evince \
-                 xinput \
-                 scrot \
-                 light \
-                 tlp \
-                 fonts-terminus-otb
+                 torbrowser-launcher \
+                 calibre 
+                 
+        
 

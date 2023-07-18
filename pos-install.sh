@@ -5,6 +5,7 @@ sudo apt install qbittorrent \
                  torbrowser-launcher \
                  calibre \
                  ufw \
+                 geany \
                  vlc
                  
         

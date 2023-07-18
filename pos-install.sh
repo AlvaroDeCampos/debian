@@ -5,6 +5,7 @@ sudo apt install qbittorrent \
                  calibre \
                  ufw \
                  geany \
+                 youtube-dl \
                  vlc
                  
         

@@ -1,6 +1,5 @@
-sudo apt install build-essentials \
-                 curl \
-	 	 lynx \
+sudo apt install build-essential \
+                 curl \ lynx \
                  i3 \
                  xorg \
                  lightdm \

@@ -1,13 +1,13 @@
 sudo apt install build-essential \
-                 curl \ lynx \
+                 curl \ 
+                 lynx \
                  i3 \
                  xorg \
                  lightdm \
                  lxappearance \
                  thunar \
                  qutebrowser \
-                 pulseaudio \
-                 alsa-utils \
+                 pipewire \
                  pavucontrol \
                  rofi \
                  vim \
@@ -17,10 +17,11 @@ sudo apt install build-essential \
                  htop \
                  papirus-icon-theme \
                  materia-gtk-theme \
-                 mc \
-                 xfce4-terminal \
-                 zsh \
-                 zram-tools
+                 dunst \
+                 zram-tools \
+                 ranger \
+                 polybar \
+                 urxvt 
                  
 
 
